@@ -1,0 +1,26 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Results-driven Software Engineer with 5+ years of experience building scalable web applications. 
+Expert in Python, JavaScript, and cloud technologies. Led teams of 4 developers and delivered 
+projects that increased system performance by 40%. Passionate about clean code and agile methodologies.
+
+EXPERIENCE
+
+Senior Software Engineer | Tech Solutions Inc. | 2020 - Present
+- Developed and maintained microservices architecture serving 2M+ daily users
+- Implemented CI/CD pipelines reducing deployment time by 60%
+- Led migration to AWS, reducing infrastructure costs by 35%
+- Mentored 3 junior developers and conducted code reviews
+
+Software Engineer | StartupXYZ | 2018 - 2020
+- Built REST APIs using Python/FastAPI and Node.js
+- Integrated Docker and Kubernetes for containerized deployments
+- Collaborated with product team using agile methodologies
+
+EDUCATION
+BS Computer Science | State University | 2018
+
+SKILLS
+Python, JavaScript, React, Node.js, PostgreSQL, Redis, Docker, Kubernetes, AWS, Git, REST APIs, Microservices

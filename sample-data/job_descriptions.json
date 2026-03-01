@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "company": "Tech Corp Inc",
+    "description": "We are looking for a Senior Software Engineer to join our team. Requirements: 5+ years of experience with Python, JavaScript, or Java. Strong knowledge of REST APIs, microservices architecture, and cloud platforms (AWS/GCP). Experience with Docker, Kubernetes, and CI/CD pipelines. Excellent problem-solving skills and ability to work in agile teams. BS in Computer Science or equivalent."
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Data Analytics Co",
+    "description": "Data Scientist position. Requirements: MS/PhD in Statistics, Computer Science, or related field. 3+ years experience with Python, R, SQL. Proficiency in machine learning (scikit-learn, TensorFlow, PyTorch). Experience with data visualization (Tableau, Power BI). Strong communication skills. Knowledge of NLP and deep learning is a plus."
+  },
+  {
+    "title": "Product Manager",
+    "company": "Product First LLC",
+    "description": "Product Manager needed. 4+ years in product management. Experience with agile methodologies, user research, and product analytics. Strong stakeholder management and cross-functional collaboration. Technical background preferred. Experience with Jira, Figma, and SQL. MBA or equivalent experience."
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Cloud Solutions",
+    "description": "DevOps Engineer. Requirements: 3+ years in DevOps/SRE. Expertise in AWS, Terraform, Ansible. Experience with Kubernetes, Docker, Jenkins, GitHub Actions. Strong scripting (Bash, Python). Monitoring tools: Prometheus, Grafana, ELK stack. Linux system administration."
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Web Agency",
+    "description": "Frontend Developer. 3+ years with React, TypeScript, HTML/CSS. Experience with Tailwind, Redux, and modern build tools (Vite, Webpack). Responsive design and accessibility (WCAG). GraphQL or REST API integration. Portfolio required."
+  }
+]
